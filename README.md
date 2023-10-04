@@ -21,7 +21,7 @@ In this section, you'll find implementations and explanations of essential data 
 - [ ] Arrays
 - [ ] Linked Lists
 - [x] Stacks
-- [ ] Queues
+- [x] Queues
 - [ ] Trees (Binary Trees, Binary Search Trees, AVL Trees, etc.)
 - [ ] Heaps
 - [ ] Hash Tables
