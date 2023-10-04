@@ -1,4 +1,5 @@
 # Data Structures and Algorithms
+
 ![ds-banner](https://github.com/Darkrove/data-structures-and-algorithms/assets/53792139/a09d8c5e-12eb-41a7-ac3a-b59afb4f98fb)
 
 Welcome to the Data Structures and Algorithms repository! This repository is a collection of implementations, explanations, and examples of various data structures and algorithms commonly used in computer science and programming.
