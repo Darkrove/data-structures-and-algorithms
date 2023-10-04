@@ -26,7 +26,8 @@ In this section, you'll find implementations and explanations of essential data 
 - [x] Queues
 - [ ] Trees (Binary Trees, Binary Search Trees, AVL Trees, etc.)
 - [ ] Heaps
-- [ ] Hash Tables
+- [ ] Hash Tables / Hash Map
+- [ ] Hast Set
 - [ ] Graphs (Graph representations, traversals, algorithms)
 - [ ] and more...
 
